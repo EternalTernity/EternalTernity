@@ -1,24 +1,55 @@
 <h1 align="center">Hi 👋, I'm Tomacito Paring</h1>
 
-### A passionate frontend and game developer that is obsessed with graphically demanding games, what I mean is the beauty of Unreal Engine
+<h3 align="center">Frontend &amp; game developer obsessed with Unreal Engine 5</h3>
+
+---
+
+### 🚀 About Me
 
 - 🌱 I'm currently learning: **Unreal Engine Performance Optimization**
-
-- 📫 How to reach me: **paringtomacito@gmail.com**
-
+- 🎮 I build: **frontend experiences and games**
+- 📫 How to reach me: **[paringtomacito@gmail.com](mailto:paringtomacito@gmail.com)**
 - ⚡ Fun fact: **And every single night, I pray that my tits are sitting right. Moulin Rouge my corset is so tight. Baby girl in control, I feel like Nicole ✨.**
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
+
 <p align="left">
-<a href="https://github.com/EternalTernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EternalTernity" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tomsheyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tomsheyt" height="30" width="40" /></a>
-<a href="https://instagram.com/tom.sheeeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tom.sheeeet" height="30" width="40" /></a>
+  <a href="https://github.com/EternalTernity" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub: EternalTernity" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/tomsheyt" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook: tomsheyt" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/tom.sheeeet" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: tom.sheeeet" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://arduino.cc" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://c-language.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="css3" width="40" height="40"/> </a> <a href="https://cypress.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://console.firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://qt.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="ruby" width="40" height="40"/> </a> </p>
+### 🛠️ Languages and Tools
 
-<h2 align="left">And this one</h2>
 <p align="left">
-    <a href="https://unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="128" height="128"/> </a>
+  <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40" /> </a>
+  <a href="https://c-language.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /> </a>
+  <a href="https://isocpp.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" /> </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" /> </a>
+  <a href="https://cypress.io" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" width="40" height="40" /> </a>
+  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40" /> </a>
+  <a href="https://dotnet.microsoft.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40" /> </a>
+  <a href="https://figma.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" /> </a>
+  <a href="https://console.firebase.google.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" /> </a>
+  <a href="https://mongodb.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" /> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" /> </a>
+  <a href="https://postgresql.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" /> </a>
+  <a href="https://qt.io" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="Qt" width="40" height="40" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" /> </a>
+  <a href="https://rubyonrails.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="40" height="40" /> </a>
+</p>
+
+### 🎮 Game Development
+
+<p align="left">
+  <a href="https://unrealengine.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="128" height="128" />
+  </a>
 </p>
